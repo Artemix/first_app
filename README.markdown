@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: яхЁтюх яЁшыюцхэшх
+# Ruby on Rails Tutorial: первое приложение
 
-▌Єю яхЁтюх яЁшыюцхэшх фы  
+Это первое приложение для 
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
- [╠рщъы ╒рЁЄы](http://michaelhartl.com/).
+[Майкл Хартл](http://michaelhartl.com/).
